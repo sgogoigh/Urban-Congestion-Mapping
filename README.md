@@ -33,6 +33,7 @@ pip install -r requirements.txt
 ```bash
 python dataset_generator.py
 ```
+> You can also skip this part by using your own dataset
 
 ### To visualize one hour
 ```bash
@@ -46,5 +47,3 @@ python visualize_24hr_grid.py
 ---
 
 > Made by Sunny Gogoi & Advaith
-> You can also skip this part by using your own dataset
-
